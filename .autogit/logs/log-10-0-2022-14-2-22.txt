@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jan 10 2022 14:02:22 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-10-0-2022-13-32-2.txt
+* package.json
+
+
+Deleted files:
+
+
+Renamed files:
